@@ -1,0 +1,46 @@
+
+
+insert into users(username, password, barcode, balance)
+values
+
+('Gibrat Yerzhan', '220001g', 220001, 0),
+
+('Daniyar Akhmetov' ,'220119d', 220119, 0),
+
+('Eset Elemes', '220131e', 220131, 0),
+
+('Asanali Ishchanov', '221008a', 221008, 0),
+
+('Aian Kenzhebai','220238a', 220238, 0),
+
+('Sultan Khafizov' ,'220186s', 220186, 0),
+
+('Nazken Koblanova' , '221572n' ,221572, 0),
+
+('David Mekhtiev' ,'220095d', 220095, 0),
+
+('Akniyet Otarova', '220360a', 220360, 0),
+
+('Bernar Rzaev', '220246b', 220246, 0),
+
+('Gabiden Sagyntai','221373g', 221373, 0),
+
+('Temirlan Seksenov' ,'222027t', 222027, 0),
+
+('Dmitriy Skakovskiy', '220198d', 220198, 0),
+
+('Margulan Temirgali' ,'220077m', 220077, 0),
+
+('Azhar Tilekova' ,'220015a', 220015, 0),
+
+('Zhansaya Yergesh' ,'221542z', 221542, 0),
+
+('TEMIRLAN ZHAUGASHTY' ,'221800t', 221800, 0),
+
+('Aliiar Zheniskanov', '221657a' ,221657, 0),
+
+('Duman Zhussupov', '220125d', 220125, 0);
+
+
+
+
